@@ -1,6 +1,9 @@
 <?php
 
 use Illuminate\Database\Seeder;
+use App\User;
+use App\Role;
+use App\Permission;
 
 class UserTableSeeder extends Seeder
 {
